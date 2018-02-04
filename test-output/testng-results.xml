@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40048" started-at="2018-02-03T09:47:59Z" finished-at="2018-02-03T09:48:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40048" started-at="2018-02-03T09:47:59Z" finished-at="2018-02-03T09:48:39Z">
+      <class name="com.pack.common.test.Deleteuser">
+        <test-method status="PASS" signature="delete()[pri:0, instance:com.pack.common.test.Deleteuser@32e701fb]" name="delete" duration-ms="9654" started-at="2018-02-03T15:18:29Z" finished-at="2018-02-03T15:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- com.pack.common.test.Deleteuser -->
+      <class name="com.pack.common.test.Createuser">
+        <test-method status="PASS" signature="newuser()[pri:0, instance:com.pack.common.test.Createuser@95ff886]" name="newuser" duration-ms="10055" started-at="2018-02-03T15:18:08Z" finished-at="2018-02-03T15:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newuser -->
+      </class> <!-- com.pack.common.test.Createuser -->
+      <class name="com.pack.common.test.VerifyPageAcess">
+        <test-method status="PASS" signature="ComputersCount()[pri:0, instance:com.pack.common.test.VerifyPageAcess@e8234ec]" name="ComputersCount" duration-ms="8937" started-at="2018-02-03T15:17:59Z" finished-at="2018-02-03T15:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ComputersCount -->
+      </class> <!-- com.pack.common.test.VerifyPageAcess -->
+      <class name="com.pack.common.test.Alteruser">
+        <test-method status="PASS" signature="alter()[pri:0, instance:com.pack.common.test.Alteruser@7bb52a38]" name="alter" duration-ms="11384" started-at="2018-02-03T15:18:18Z" finished-at="2018-02-03T15:18:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alter -->
+      </class> <!-- com.pack.common.test.Alteruser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

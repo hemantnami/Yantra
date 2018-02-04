@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="E:/auto/selenium-server-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zcoe667/Downloads/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="E:/auto/eclipse/plugins/org.testng.eclipse_6.9.11.201604020423/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/auto/eclipse/plugins/org.testng.eclipse_6.9.11.201604020423/lib/guava-base-r03.jar"/>
+	<classpathentry kind="lib" path="E:/auto/eclipse/plugins/org.testng.eclipse_6.9.11.201604020423/lib/guava-collections-r03.jar"/>
+	<classpathentry kind="lib" path="E:/auto/eclipse/plugins/org.testng.eclipse_6.9.11.201604020423/lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="E:/auto/eclipse/plugins/org.testng.eclipse_6.9.11.201604020423/lib/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="E:/auto/eclipse/plugins/org.testng.eclipse_6.9.11.201604020423/lib/testng.jar"/>
+	<classpathentry kind="lib" path="E:/auto/eclipse/plugins/org.testng.eclipse_6.9.11.201604020423/lib/testng-remote.jar"/>
+	<classpathentry kind="lib" path="E:/auto/eclipse/plugins/org.testng.eclipse_6.9.11.201604020423/lib/testng-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
